@@ -1,0 +1,2 @@
+chat.duolly.cn
+*.zhixi.com
