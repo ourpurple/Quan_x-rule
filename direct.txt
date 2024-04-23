@@ -1,3 +1,4 @@
 zhixi.com
 www.zhixi.com
 chat.duolly.cn
+*.zhixi.com
