@@ -2,3 +2,5 @@ zhixi.com
 www.zhixi.com
 chat.duolly.cn
 *.zhixi.com
+oldmantvg.net
+*.oldmantvg.net
