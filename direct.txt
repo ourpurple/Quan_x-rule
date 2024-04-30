@@ -4,3 +4,4 @@ chat.duolly.cn
 *.zhixi.com
 oldmantvg.net
 *.oldmantvg.net
+www.423down.com
